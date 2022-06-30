@@ -1,0 +1,11 @@
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\ImageForms\ImageForms\bin\Debug\ImageForms.exe.config
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\ImageForms\ImageForms\bin\Debug\ImageForms.exe
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\ImageForms\ImageForms\bin\Debug\ImageForms.pdb
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\ImageForms\ImageForms\obj\Debug\ImageForms.csproj.AssemblyReference.cache
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\ImageForms\ImageForms\obj\Debug\ImageForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\ImageForms\ImageForms\obj\Debug\ImageForms.App.resources
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\ImageForms\ImageForms\obj\Debug\ImageForms.Properties.Resources.resources
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\ImageForms\ImageForms\obj\Debug\ImageForms.csproj.GenerateResource.cache
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\ImageForms\ImageForms\obj\Debug\ImageForms.csproj.CoreCompileInputs.cache
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\ImageForms\ImageForms\obj\Debug\ImageForms.exe
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\ImageForms\ImageForms\obj\Debug\ImageForms.pdb
